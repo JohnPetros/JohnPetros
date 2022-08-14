@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o João, futuro Desenvolvedor Web Full-stack! 👨🏻‍💻</h1>
 
 <p align="center">
-<img  width="400" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
+<img  width="700" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
 </p>
 
 ## 👨🏻‍🦱 Sobre mim:
@@ -43,7 +43,7 @@ Conheci a programação em 2021, quando tive meu primeiro contato com a liguagem
 ## 🧪 Github'status
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPetros&show_icons=true&theme=radical)
-  <img height="190em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPetros&layout=compact&langs_count=7&theme=radical"/>
+  <img height="200em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPetros&layout=compact&langs_count=7&theme=radical"/>
 
  ![Snake animation](https://github.com/JohnPetros/JohnPetros/blob/output/github-contribution-grid-snake.svg)
 
