@@ -1,10 +1,13 @@
 <h1 align="center">Olá, sou o João, futuro Desenvolvedor Web Full-stack! 👨🏻‍💻</h1>
 
-![mario-github](https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif)
+<p align="center">
+<img  width="400" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
+</p>
 
 ## 👨🏻‍🦱 Sobre mim:
-Atualmente tenho 20 anos e sou estudante de Desenvolvimento de Sistemas na Etec em São José dos Campos.
-Conheci a programação em 2021, quando tive meu primeiro contato com a liguagem Python para automatizar processos, planilhas Excel e gerar análise de dados, logo pude perceber o poder e a facilidade que a tecnologia pode proporcionar em nossas vidas. Meses depois conheci e me aficionei mais com o mundo Web. Desde então estudo constantemente JavaScript, seus Frameworks e outras linguagems e aprimorando-me cada vez mais para algum dia me tornar dev web full-stack.
+<p align="justify">Atualmente tenho 20 anos e sou estudante de Desenvolvimento de Sistemas na Etec em São José dos Campos.
+Conheci a programação em 2021, quando tive meu primeiro contato com a liguagem Python para automatizar processos, planilhas Excel e gerar análise de dados, logo pude perceber o poder e a facilidade que a tecnologia pode proporcionar em nossas vidas. Meses depois conheci e me aficionei mais com o mundo Web. Desde então estudo constantemente JavaScript, seus Frameworks e outras linguagems e aprimorando-me cada vez mais para algum dia me tornar dev web full-stack.</p>
+
 
 ## 🛠️ Tecnologias:
 
@@ -39,9 +42,9 @@ Conheci a programação em 2021, quando tive meu primeiro contato com a liguagem
 
 ## 🧪 Github'status
 
-![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPetros&show_icons=true&theme=synthwave)
+![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPetros&show_icons=true&theme=radical)
+  <img height="190em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPetros&layout=compact&langs_count=7&theme=radical"/>
 
-
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/JohnPetros/JohnPetros/blob/output/github-contribution-grid-snake.svg)
 
 
