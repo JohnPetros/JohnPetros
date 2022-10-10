@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou o João, futuro Desenvolvedor Web Full-stack! 👨🏻‍💻</h1>
 
-<img  width="500" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" align="right" />
+<img  width="250" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" align="right" />
 
 ## 👨🏻‍🦱 Sobre mim:
 <p align="justify">Atualmente tenho 20 anos e sou estudante de Desenvolvimento de Sistemas na Etec em São José dos Campos.
