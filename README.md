@@ -4,7 +4,7 @@
 <p align="justify">Atualmente tenho 20 anos e sou estudante de Desenvolvimento de Sistemas na Etec em São José dos Campos.
 Conheci a programação em 2021, quando tive meu primeiro contato com a liguagem Python para automatizar processos, planilhas Excel e gerar análise de dados, logo pude perceber o poder e a facilidade que a tecnologia pode proporcionar em nossas vidas. <br/> Meses depois conheci e me aficionei mais com o mundo Web. Desde então estudo constantemente a famosa omnistack (Reactjs, Nodejs, ReactNative), mas também dando uma olhada em outras linguagens, frameworks/libs e aprimorando-me cada vez mais para algum dia me tornar dev web full-stack.</p>
 
-<img  width="200" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
+<img  width="200" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" align="right" />
 
 
 
