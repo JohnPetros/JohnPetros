@@ -29,6 +29,6 @@ Conheci a programação em 2021, quando tive meu primeiro contato com a liguagem
 
 ## 🧪 Github'status
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPetros&show_icons=true&theme=radical)
-  <img height="200em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPetros&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPetros&layout=compact&langs_count=7&theme=radical"/>
 
 
