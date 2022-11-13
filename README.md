@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://ionicframework.com/">
-        <img src=".github/img/nextjs" width="48" height="48" alt="Ionic" />
+        <img src=".github/img/nextjs.png" width="48" height="48" alt="NextJs" />
       </a>
       <span>NextJs</span>
     </td>
