@@ -1,17 +1,17 @@
-<h1 align="center">Hello, people 👋🏻! <img src=".github/img/waving-hand.gif" width="30px" height="30px"> Welcome to my profile! 👨🏻‍💻</h1>
+<h1 align="center">Hello, people <img src=".github/img/waving-hand.gif" width="30px" height="30px">! Welcome to my profile! 👨🏻‍💻</h1>
 
 <p align="center">
-<img  width="250" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
+<img  width="350" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
 </p>
  
 ## 👨🏻‍🦱 About me:
 <ul>
   <li>🔭 Aiming to become a Front-End Developer</li>
-  <li>🎓 Systems development student at ETEC (Technical School);</li>
-  <li>I strongly believe that programming can change people's lives and for that reason I'm always looking to improve myself more and more</li>
-  <li>📚 I'm Currently studying and expanding knowledge in Frontend web development technologies, such as HTML, CSS, JavaScript/TypeScript, ReactJs and NextJs.  I've also had contact with and some expertise in backend technologies like Nodejs and PHP, but only to expand my range of possibilities and , of course, out of curiosity 😜;</li>
-  <li>⚡ Reading comic books and watching movies are some of my hobbies;</li>
-  <li>📍 From São José dos Campos SP, Brazil.</li>
+  <li>🎓 Systems development student at ETEC (Technical School)</li>
+  <li>🚀 I strongly believe that programming can change people's lives and for that reason I'm always looking to improve myself more and more</li>
+  <li>📚 I'm Currently studying and expanding knowledge in Frontend web development technologies, such as HTML, CSS, JavaScript/TypeScript, ReactJs and NextJs.  I've also had contact with and some expertise in backend technologies like Nodejs and PHP, but only to expand my range of possibilities and , of course, out of curiosity 😜</li>
+  <li>⚡ Reading comic books and watching movies are some of my hobbies</li>
+  <li>📍 From São José dos Campos SP, Brazil</li>
 </ul>
 
 
@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://ionicframework.com/">
-        <img src=".github/img/ionic.webp" width="48" height="48" alt="Ionic" />
+        <img src=".github/img/nextjs" width="48" height="48" alt="Ionic" />
       </a>
       <span>NextJs</span>
     </td>
@@ -79,6 +79,12 @@
         <img src=".github/img/php.png" width="48" height="48" alt="PHP" />
       </a>
       <span>PHP</span>
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.mysql.com/">
+        <img src=".github/img/mysql.png" width="48" height="48" alt="PHP" />
+      </a>
+      <span>MySQL</span>
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/">
