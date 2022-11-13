@@ -1,7 +1,7 @@
 <h1 align="center">Hello, people <img src=".github/img/waving-hand.gif" width="30px" height="30px">! Welcome to my profile! 👨🏻‍💻</h1>
 
 <p align="center">
-<img  width="450" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
+<img  width="550" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
 </p>
  
 ## 👨🏻‍🦱 About me:
@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://nextjs.org/">
-        <img src=".github/img/.png" width="48" height="48" alt="NextJs" />
+        <img src=".github/img/nextjs.png" width="48" height="48" alt="NextJs" />
       </a>
       <span>NextJs</span>
     </td>
