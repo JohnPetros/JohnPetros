@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://nextjs.org/">
-        <img src=".github/img/nextjs.png" width="48" height="48" alt="NextJs" />
+        <img src=".github/img/.png" width="48" height="48" alt="NextJs" />
       </a>
       <span>NextJs</span>
     </td>
