@@ -1,12 +1,18 @@
-<h1 align="center">Olá, sou o João, futuro Desenvolvedor Web Full-stack! 👨🏻‍💻</h1>
+<h1 align="center">Hello, people 👋🏻! <img src=".github/img/waving-hand.gif" width="30px" height="30px"> Welcome to my profile! 👨🏻‍💻</h1>
 
 <p align="center">
-<img  width="500" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
+<img  width="250" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
 </p>
  
-## 👨🏻‍🦱 Sobre mim:
-<p align="justify">Atualmente 20 anos e estudante de Desenvolvimento de Sistemas na Etec em São José dos Campos.  <br/>
-Conheci a programação em 2021, quando tive meu primeiro contato com a liguagem Python para automatizar processos, planilhas Excel e gerar análise de dados, logo pude perceber o poder e a facilidade que a tecnologia pode proporcionar em nossas vidas. Meses depois conheci e me aficionei mais com o mundo Web. Desde então estudo constantemente a famosa omnistack (Reactjs, Nodejs, ReactNative), mas também dando uma olhada em outras linguagens, frameworks/libs e aprimorando-me cada vez mais para algum dia me tornar dev web full-stack.</p>
+## 👨🏻‍🦱 About me:
+<ul>
+  <li>🔭 Aiming to become a Front-End Developer</li>
+  <li>🎓 Systems development student at ETEC (Technical School);</li>
+  <li>I strongly believe that programming can change people's lives and for that reason I'm always looking to improve myself more and more</li>
+  <li>📚 I'm Currently studying and expanding knowledge in Frontend web development technologies, such as HTML, CSS, JavaScript/TypeScript, ReactJs and NextJs.  I've also had contact with and some expertise in backend technologies like Nodejs and PHP, but only to expand my range of possibilities and , of course, out of curiosity 😜;</li>
+  <li>⚡ Reading comic books and watching movies are some of my hobbies;</li>
+  <li>📍 From São José dos Campos SP, Brazil.</li>
+</ul>
 
 
 ## 🛠️ Tecnologias que já tive contato:
