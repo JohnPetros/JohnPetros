@@ -10,7 +10,6 @@
   <li>🎓 Systems development student at ETEC (Technical School)</li>
   <li>🚀 I strongly believe that programming can change people's lives and for that reason I'm always looking to improve myself more and more</li>
   <li>📚 I'm Currently studying and expanding knowledge in Frontend web development technologies, such as HTML, CSS, JavaScript/TypeScript, ReactJs and NextJs.  I've also had contact with and some expertise in backend technologies like Nodejs and PHP, but only to expand my range of possibilities and , of course, out of curiosity 😜</li>
-  <li>⚡ Reading comic books and watching movies are some of my hobbies</li>
   <li>📍 From São José dos Campos SP, Brazil</li>
 </ul>
 
@@ -127,5 +126,3 @@
 ## 🧪 Github'status
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPetros&show_icons=true&theme=blue-green)
   <img height="250em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPetros&layout=compact&langs_count=7&theme=blue-green"/>
-
-
