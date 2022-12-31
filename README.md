@@ -13,7 +13,6 @@
   <li>📍 From São José dos Campos SP, Brazil</li>
 </ul>
 
-<br>
 
 ## 🛠️ Technologies I've had contact with:
 <table>
@@ -119,7 +118,6 @@
   </tr>
 </table>
  
- <br>
 
 ## 📲 Contact me
   <a href = "mailto:joaopcarvalho.cds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -127,4 +125,4 @@
 
 ## 🧪 Github'status
 [Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPetros&show_icons=true&theme=blue-green)
-  <img height="200em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPetros&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="165em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPetros&layout=compact&langs_count=7&theme=blue-green"/>
