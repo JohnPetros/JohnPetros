@@ -74,7 +74,7 @@
       <span>npm</span>
     </td>
     <td align="center" width="96">
-      <a href="https://bitbucket.org/">
+      <a href="https://www.php.net/">
         <img src=".github/img/php.png" width="48" height="48" alt="PHP" />
       </a>
       <span>PHP</span>
@@ -92,7 +92,7 @@
       <span>Git</span>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/mathrb22">
+      <a href="https://github.com/JohnPetros">
         <img src=".github/img/github.jpg" width="48" height="48" alt="GitHub" />
       </a>
       <span>GitHub</span>
@@ -125,4 +125,4 @@
 
 ## 🧪 Github'status
 [Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPetros&show_icons=true&theme=blue-green)
-  <img height="165em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPetros&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="200em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPetros&layout=compact&langs_count=7&theme=blue-green"/>
