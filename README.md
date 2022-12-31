@@ -129,4 +129,4 @@
 
 ## 🧪 Github'status
 [Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPetros&show_icons=true&theme=blue-green)
-  <img height="200em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPetros&layout=compact&langs_count=7&theme=blue-green"/>
+<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPetros&layout=compact&langs_count=7&theme=blue-green"/>
