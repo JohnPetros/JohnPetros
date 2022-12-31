@@ -3,7 +3,7 @@
 <p align="center">
 <img  width="550" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
 </p>
- 
+
 ## 👨🏻‍🦱 About me:
 <ul>
   <li>🔭 Aiming to become a Front-End Developer</li>
@@ -13,6 +13,7 @@
   <li>📍 From São José dos Campos SP, Brazil</li>
 </ul>
 
+<br>
 
 ## 🛠️ Technologies I've had contact with:
 <table>
@@ -118,10 +119,13 @@
   </tr>
 </table>
  
+ <br>
 
 ## 📲 Contact me
   <a href = "mailto:joaopcarvalho.cds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-carvalho-dos-santos-42a0ab222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<br>
 
 ## 🧪 Github'status
 [Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPetros&show_icons=true&theme=blue-green)
