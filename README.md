@@ -118,6 +118,9 @@
     </td>
   </tr>
 </table>
+
+## Visitors Count
+![MareDevi](https://count.getloli.com/get/@johnpetros?theme=moebooru-h)  
  
 <br/>
 
