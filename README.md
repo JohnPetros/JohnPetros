@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world <img src=".github/img/waving-hand.gif" width="30px" height="30px">! Welcome to my profile! 👨🏻‍💻</h1>
+<h1 align="center">Hello, People <img src=".github/img/waving-hand.gif" width="30px" height="30px">! Welcome to my profile! 👨🏻‍💻</h1>
 
 <p align="center">
 <img  width="550" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
