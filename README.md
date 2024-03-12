@@ -106,7 +106,7 @@
       <span>Tamagui</span>
     </td>
     <td align="center" width="96">
-      <a target="_blank" href="https://gluestack.io/ui/docs/components/forms/button">
+      <a target="_blank" href="https://gluestack.io/">
         <img src=".github/img/gluestack.svg" width="48" height="48" alt="Gluestack UI" />
       </a>
       <span>GlueStack UI</span>
