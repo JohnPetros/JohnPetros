@@ -20,49 +20,49 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+      <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src=".github/img/html5.svg" width="48" height="48" alt="HTML" />
       </a>
       <span>HTML</span>
     </td>
     <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src=".github/img/css3.svg" width="48" height="48" alt="CSS" />
       </a>
       <span>CSS</span>
     </td>
     <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src=".github/img/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <span>JavaScript</span>
     </td>
     <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
+      <a target="_blank" href="https://www.typescriptlang.org/">
         <img src=".github/img/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <span>TypeScript</span>
     </td>
     <td align="center" width="96">
-      <a href="https://tailwindcss.com/">
+      <a target="_blank" href="https://tailwindcss.com/">
         <img src=".github/img/tailwindcss.jpg" width="48" height="48" alt="TailwindCSS" />
       </a>
       <span>TailwindCSS</span>
     </td>
     <td align="center" width="96">
-      <a href="https://sass.com/">
+      <a target="_blank" href="https://sass.com/">
         <img src=".github/img/sass.svg" width="48" height="48" alt="Sass" />
       </a>
       <span>Sass</span>
     </td>
     <td align="center" width="96">
-      <a href="https://tailwindcss.com/">
+      <a target="_blank" href="https://htmx.org/">
         <img src=".github/img/htmx.png" width="48" height="48" alt="TailwindCSS" />
       </a>
       <span>HTMX</span>
     </td>
      <td align="center" width="96">
-      <a href="https://tailwindcss.com/">
+      <a target="_blank" href="https://getbootstrap.com/">
         <img src=".github/img/bootstrap.svg" width="48" height="48" alt="BootStrap" />
       </a>
       <span>Boostrap</span>
@@ -70,49 +70,49 @@
   </tr>
   <tr>
      <td align="center" width="96">
-      <a href="https://reactjs.org/">
+      <a target="_blank" href="https://reactjs.org/">
         <img src=".github/img/react.svg" width="48" height="48" alt="React" />
       </a>
       <span>React</span>
     </td>
     <td align="center" width="96">
-      <a href="https://nextjs.org/">
+      <a target="_blank" href="https://nextjs.org/">
         <img src=".github/img/nextjs.png" width="48" height="48" alt="NextJs" />
       </a>
       <span>NextJs</span>
     </td>
      <td align="center" width="96">
-      <a href="https://angular.io/">
+      <a target="_blank" href="https://astro.build/">
         <img src=".github/img/astro.svg" width="48" height="48" alt="Astro" />
       </a>
       <span>Astro</span>
     </td>
     <td align="center" width="96">
-      <a href="https://angular.io/">
+      <a target="_blank" href="https://reactnative.dev/">
         <img src=".github/img/react-native.svg" width="48" height="48" alt="React Native" />
       </a>
       <span>React Native</span>
     </td>
     <td align="center" width="96">
-      <a href="https://angular.io/">
+      <a target="_blank" href="https://expo.dev/">
         <img src=".github/img/expo.svg" width="48" height="48" alt="Expo" />
       </a>
       <span>Expo</span>
     </td>
     <td align="center" width="96">
-      <a href="https://angular.io/">
+      <a target="_blank" href="https://tamagui.dev/">
         <img src=".github/img/tamagui.png" width="52" height="52" alt="Tamagui" />
       </a>
       <span>Tamagui</span>
     </td>
     <td align="center" width="96">
-      <a href="https://angular.io/">
+      <a target="_blank" href="hhttps://gluestack.io/">
         <img src=".github/img/gluestack.svg" width="48" height="48" alt="Gluestack UI" />
       </a>
       <span>GlueStack UI</span>
     </td>
     <td align="center" width="96">
-      <a href="https://angular.io/">
+      <a target="_blank" href="https://styled-components.com/">
         <img src=".github/img/styled-components.png" width="48" height="48" alt="Styled Components" />
       </a>
       <span>Styled Components</span>
@@ -120,49 +120,49 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.php.net/">
+      <a target="_blank" href="https://www.php.net/">
         <img src=".github/img/php.png" width="48" height="48" alt="PHP" />
       </a>
       <span>PHP</span>
     </td>
       <td align="center" width="96">
-      <a href="https://www.mysql.com/">
+      <a target="_blank" href="https://www.mysql.com/">
         <img src=".github/img/mysql.png" width="48" height="48" alt="PHP" />
       </a>
       <span>MySQL</span>
     </td>
     <td align="center" width="96">
-      <a href="https://git-scm.com/">
+      <a target="_blank" href="https://www.postgresql.org/">
         <img src=".github/img/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
       <span>PostgreSQL</span>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/JohnPetros">
+      <a target="_blank" href="https://www.python.org/">
         <img src=".github/img/python.svg" width="48" height="48" alt="Python" />
       </a>
       <span>Python</span>
     </td>
     <td align="center" width="96">
-      <a href="https://code.visualstudio.com/">
+      <a target="_blank" href="https://flask.palletsprojects.com/en/3.0.x/">
         <img src=".github/img/flask.svg" width="48" height="48" alt="Flask" />
       </a>
       <span>Flask</span>
     </td>
     <td align="center" width="96">
-      <a href="https://insomnia.rest/">
+      <a target="_blank" href="https://supabase.com/">
         <img src=".github/img/supabase.svg" width="48" height="48" alt="Supabase" />
       </a>
       <span>Supabase</span>
     </td>
     <td align="center" width="96">
-      <a href="https://www.figma.com/">
+      <a target="_blank" href="https://firebase.google.com/?_gl=1*1iy1z76*_up*MQ..&gclid=EAIaIQobChMIs-T53YDshAMVs1hIAB0gCwYWEAAYASAAEgJh9_D_BwE&gclsrc=aw.ds&hl=pt-br">
         <img src=".github/img/firebase.svg" width="48" height="48" alt="Firebase" />
       </a>
       <span>Firebase</span>
     </td>
      <td align="center" width="96">
-      <a href="https://www.figma.com/">
+      <a target="_blank" href="https://www.docker.com/">
         <img src=".github/img/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <span>Docker</span>
@@ -170,49 +170,49 @@
   </tr>
   <tr>
      <td align="center" width="96">
-      <a href="https://www.php.net/">
+      <a target="_blank" href="https://expressjs.com/pt-br/">
         <img src=".github/img/expressjs.svg" width="48" height="48" alt="Express Js" />
       </a>
       <span>Express</span>
     </td>
      <td align="center" width="96">
-      <a href="https://www.php.net/">
+      <a target="_blank" href="https://fastify.dev/">
         <img src=".github/img/fastify.svg" width="48" height="48" alt="PHP" />
       </a>
       <span>Fastfy</span>
     </td>
      <td align="center" width="96">
-      <a href="https://www.php.net/">
+      <a target="_blank" href="https://elysiajs.com/">
         <img src=".github/img/elysia.svg" width="48" height="48" alt="PHP" />
       </a>
       <span>Elysia</span>
     </td>
      <td align="center" width="96">
-      <a href="https://www.php.net/">
+      <a target="_blank" href="https://bun.sh/">
         <img src=".github/img/bun.svg" width="48" height="48" alt="PHP" />
       </a>
       <span>Bun</span>
     </td>
      <td align="center" width="96">
-      <a href="https://www.php.net/">
+      <a target="_blank" href="https://typeorm.io/">
         <img src=".github/img/typeorm.png" width="48" height="48" alt="Type Orm" />
       </a>
       <span>TypeOrm</span>
     </td>
      <td align="center" width="96">
-      <a href="https://www.php.net/">
+      <a target="_blank" href="https://www.prisma.io/">
         <img src=".github/img/prisma.svg" width="48" height="48" alt="Prisma" />
       </a>
       <span>Prisma</span>
     </td>
     <td align="center" width="96">
-      <a href="https://www.php.net/">
+      <a target="_blank" href="hhttps://webpack.js.org/">
         <img src=".github/img/webpack.svg" width="48" height="48" alt="PHP" />
       </a>
       <span>Webpack</span>
     </td>
       <td align="center" width="96">
-      <a href="https://www.php.net/">
+      <a href="https://www.figma.com/">
         <img src=".github/img/figma.svg" width="48" height="48" alt="PHP" />
       </a>
       <span>Figma</span>
