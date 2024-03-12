@@ -29,7 +29,7 @@
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src=".github/img/css3.svg" width="40" height="40" alt="CSS" />
       </a>
-      <span>CSS_</span>
+      <span>CSS</span>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
