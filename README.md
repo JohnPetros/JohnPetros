@@ -1,4 +1,4 @@
-<h1 align="center">Hello, People <img src=".github/img/waving-hand.gif" width="30px" height="30px">! Welcome to my profile! 👨🏻‍💻</h1>
+<h1 align="center">Hello, People <img src=".github/img/waving-hand.gif" width="30px" height="30px">! Welcome to my profile! <img  width="32" src=".github/img/panda.gif" /></h1>
 
 <p align="center">
 <img  width="550" src="https://user-images.githubusercontent.com/93893533/184554797-594c3dcc-62f8-4433-bd70-f6f51be038af.gif" />
@@ -27,7 +27,7 @@
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src=".github/img/css3.svg" width="48" height="48" alt="CSS" />
+        <img src=".github/img/css3.svg" width="40" height="40" alt="CSS" />
       </a>
       <span>CSS</span>
     </td>
