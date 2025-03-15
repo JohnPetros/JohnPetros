@@ -8,7 +8,7 @@
 <ul>
   <li>🔭 Aiming to become a great Full-Stack Developer</li>
   <li>🤝 I strongly believe that programming can change people's lives and for that reason I'm always looking to improve myself more and more.</li>
-  <li>🚀 Creator and mantainer of <a href="/stardust.com">StarDust</a>.</li>
+  <li>🚀 Creator and mantainer of <a href="https://www.stardust-app.com.br/landing">StarDust</a>.</li>
   <li>📚 My focus is studying and expanding my knowledge in web development. I've also had contact with and some other areas like mobile development and AI, but only to expand my range of possibilities and, of course, out of curiosity 😜.</li>
   <li>🐍 I'm currently studying Python.</li>
 </ul>
@@ -231,7 +231,7 @@
 ## ✨ Github Streak
 
 <div align="center">
-<img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?user=johnpetros&theme=dark" alt="vinicius henrique"/>
+<img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?user=johnpetros&theme=dark" alt="This should be working 🤷🏻..."/>
 </div>
 
 ## Visitors Count
